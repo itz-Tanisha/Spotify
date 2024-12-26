@@ -19,7 +19,7 @@ Video
 
 ## Installation
 
-```
+```shell
     git clone https://github.com/yourusername/spotify.git  
     cd spotify
 ```
